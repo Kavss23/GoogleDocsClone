@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). We have used ReactJs, quillJS and Materials UI to make the frontend including toolbar
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I have used ReactJs, quillJS and Materials UI to make the frontend including toolbar
 
 ## Available Scripts
 
